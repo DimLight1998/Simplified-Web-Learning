@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  remove useless elements on web learning front page
 // @author       DimLight1998
-// @match        http://learn2018.tsinghua.edu.cn/f/wlxt/index/course/student/
+// @match        http://learn.tsinghua.edu.cn/f/wlxt/index/course/student/
 // @grant        none
 // @require      https://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.9.1/underscore-min.js
 // @run-at document-idle
